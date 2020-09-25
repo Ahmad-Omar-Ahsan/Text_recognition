@@ -1,4 +1,4 @@
-# handwriting_recognition
+# Text_recognition
 Implentation of OCR using deep neural network EAST and tesseract to detect and recognize texts in images
 
 To run this program
